@@ -1,0 +1,27 @@
+{
+    "modid": "fastleafdecay",
+    "java": 8,
+    "template": "forge-1.7.10",
+    "version": "1.7.10-1.4",
+    "gradleOverride": {
+        "enabled": true,
+        "version": "1.7.10-1.4",
+        "group": "com.olafski.fastleafdecay",
+        "archiveBaseName": "FastLeafDecay"
+    },
+    "coremod": "com.olafski.fastleafdecay.FldLoadingPlugin",
+    "name": "Fast Leaf Decay",
+    "description": "Increases leaf decay rates.",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        "Olafski"
+    ],
+    "credits": "Lumien for making the RandomThings mod, from which I extracted the code for this mod.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [],
+    "libs": [
+        
+    ]
+}
