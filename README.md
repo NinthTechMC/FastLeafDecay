@@ -3,6 +3,8 @@ This is a fork of the [FastLeafDecay](https://github.com/Olafski/FastLeafDecay) 
 
 All derived work from the original mod is licensed under the MIT license.
 
+To build this, setup my [mcmod](https://github.com/NinthTechMC/mcmod) tool, then run `mcmod build`
+
 Below is the original README.md file. It's pretty old and some links may not work
 ---
 A simple Minecraft mod that speeds up leaf decay after you cut down the wood in a tree. Generally it will only take about five seconds before all leaves are gone.
